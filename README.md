@@ -6,6 +6,12 @@ This project was designed to help a SpendNest-style team process incoming conver
 
 ---
 
+## Project links
+
+## Deployment link - https://revenueintelligence-rose.vercel.app/
+
+## Github link - https://github.com/madhesh1612/Revenue-Intelligence-Project-Drive
+
 ## Overview
 
 The application gives teams a single workspace to:
